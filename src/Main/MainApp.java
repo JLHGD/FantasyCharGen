@@ -330,6 +330,9 @@ public class MainApp extends Application{
         }
     }
 
+    /**
+     * Sets the value of the menu button and disables all of the attributes that are incompatible with the selected
+     */
     //public void MenuItemEventListenerHelper(){
         //disableMenuItemsRandomHelper(this.index, raceList, r);
         //pickHelper(raceList, lists);
