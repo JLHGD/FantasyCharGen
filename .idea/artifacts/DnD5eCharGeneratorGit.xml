@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DnD5eCharGeneratorGit">
+    <output-path>$PROJECT_DIR$/out/artifacts/DnD5eCharGeneratorGit</output-path>
+    <root id="archive" name="DnD5eCharGeneratorGit.jar">
+      <element id="archive" name="DnD5eCharGeneratorGit.jar">
+        <element id="module-output" name="DnD5eCharGeneratorGit" />
+      </element>
+    </root>
+  </artifact>
+</component>
